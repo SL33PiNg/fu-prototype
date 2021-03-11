@@ -131,7 +131,7 @@
     "require-dir": "^1.0.0",
     "sass": "^1.26.7",
     "sass-loader": "^8.0.2",
-    "spectron": "^3.8.0",
+    "spectron": "^14.0.0",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
     "vue-html-loader": "^1.2.4",
